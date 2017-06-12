@@ -397,7 +397,7 @@ var Keyboard = function(){
 
     //Ambient Light
     var light = new THREE.AmbientLight(0x333333); // soft white light
-    // app.scene.add(light);
+    app.scene.add(light);
 
     // Directional Light
     var directionalLight = new THREE.DirectionalLight( 0xffffff, 1 );
