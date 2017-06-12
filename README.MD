@@ -2,4 +2,4 @@
 
 Bowling Project here u can play it, have fun :)
 
-[View Demo](http://SirMinis.github.io/GrafikaProjekt) (Drag the ball)
+[View Demo](https://mdziok.github.io/GrafikaProjekt/) (Drag the ball)
